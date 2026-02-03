@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Make a masterhead -->
+<h1 align="center">Welcome to my World! I'm Maxime Nereyabagabo</h1>
+<h3 align="center">CS & Statistics @ SFU | AI Engineer | Computer Architecture Researcher </h4>
 
-<!--
-**maximenewman/maximenewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ AI Engineer & Full Stack Developer
 
-Here are some ideas to get you started:
+- 🔬 Undergraduate Research Assistant at SFU - Computer Architecture Research (CS ARCH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc in Computer Science and Statistics @ Simon Fraser University
+
+- 💡 I'm into taking on new challenges and building new things particulary when it comes to **AI/ML**, and **Game Development**. I also have experience building and deploying full-stack apps end to end.
+
+
+- 📫 Reach out: **maximenewman05@gmail.com**
+
+<h2 align="left">💻 Tech Stack</h2>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,flask,fastapi,pytorch,tensorflow,sklearn,aws,gcp,azure,docker,postgres,redis,git" />
+  </a>
+</div>
